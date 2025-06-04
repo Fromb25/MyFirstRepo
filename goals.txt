@@ -1,0 +1,16 @@
+My Personal and Academic Goals for Next Year
+
+Master Python for Data Science
+Focus on NumPy, Pandas, Matplotlib, and Scikit-learn.
+
+Complete a Machine Learning Course
+Finish a full course like Andrew Ng’s or IBM’s ML specialization.
+
+Build 3 ML Projects
+Example: spam detector, house price predictor, or student grade predictor.
+
+Learn Data Visualization Tools
+Get comfortable with tools like Tableau or Plotly.
+
+Understand Math Behind ML
+Study linear algebra, probability, and basic calculus.
