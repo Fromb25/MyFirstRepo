@@ -1,1 +1,2 @@
+What I have learned from this course
 So far in this course, I’ve learned how to use Git to manage code versions effectively. I now understand how to create branches, make commits, and push changes to GitHub. This has helped me work on features independently without affecting the main code. It also makes teamwork easier, since everyone can contribute without breaking the project.
